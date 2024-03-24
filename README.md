@@ -13,7 +13,7 @@ Perl (version 5.32.1) is used for implementation.
 1. Open the Linux terminal.
 2. Clone this repository to your local machine using the following command:
    ```
-   git clone <repository_url>
+   git clone https://github.com/HumaShireen/Regular-Expression-based-Algorithm.git
    ```
 Replace `<repository_url>` with the URL of this repository.
 
