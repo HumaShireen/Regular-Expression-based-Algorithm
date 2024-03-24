@@ -15,12 +15,10 @@ Perl (version 5.32.1) is used for implementation.
    ```
    git clone https://github.com/HumaShireen/Regular-Expression-based-Algorithm.git
    ```
-Replace `<repository_url>` with the URL of this repository.
-
 3. Navigate to the directory containing the cloned repository.
 4. Execute the following command to run the code:
 ```
-perl src/codename.pl
+perl src/regular expression based algorithm.pl
 ```
 5. Press enter to run the code.
 
