@@ -25,4 +25,4 @@ perl src/regular expression based algorithm.pl
 ## Input Files
 - Transcription factor codes from TRANSFAC.
 - Sequences of human enhancers.
-- Sequences of mouse orthologous sequences.
+- Sequences of mouse orthologous.
